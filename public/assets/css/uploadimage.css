@@ -1,0 +1,19 @@
+.holder {
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+}
+.imgUpload {
+    max-width: 300px;
+    max-height: 300px;
+    min-width: 300px;
+    min-height: 300px;
+}
+input[type="file"] {
+    margin-top: 5px;
+}
+.heading {
+    font-family: Montserrat;
+    font-size: 45px;
+    color: green;
+}
